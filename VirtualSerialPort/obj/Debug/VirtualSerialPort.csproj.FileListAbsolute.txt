@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\bin\Debug\VirtualSerialPort.exe.config
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\bin\Debug\VirtualSerialPort.exe
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\bin\Debug\VirtualSerialPort.pdb
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\obj\Debug\VirtualSerialPort.Form1.resources
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\obj\Debug\VirtualSerialPort.Properties.Resources.resources
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\obj\Debug\VirtualSerialPort.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\obj\Debug\VirtualSerialPort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\obj\Debug\VirtualSerialPort.exe
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\obj\Debug\VirtualSerialPort.pdb
+C:\Users\Administrator\source\repos\VirtualSerialPort\VirtualSerialPort\obj\Debug\VirtualSerialPort.csproj.AssemblyReference.cache
